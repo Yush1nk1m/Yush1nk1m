@@ -1,11 +1,17 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2024 - To: 14 August 2024
+From: 08 August 2024 - To: 15 August 2024
 
-Total Time: 0 secs
+Total Time: 7 hrs
 
-No activity tracked
+TypeScript   5 hrs 28 mins   ███████████████████▓░░░░░   78.30 %
+Markdown     30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+C++          29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+CSS          22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Docker       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
