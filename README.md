@@ -1,3 +1,5 @@
+# Yushin Kim, A Fast Developer
+
 Weekly Coding Time 💻
 
 <!--START_SECTION:waka-->
@@ -15,3 +17,7 @@ Other        1 hr            ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+Commit logs
+
+![](./profile-3d-contrib/profile-season-animate.svg)
