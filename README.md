@@ -18,6 +18,6 @@ Other        1 hr            ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### Annual Activities
+### Annual Contributions 🏃
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
