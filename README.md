@@ -5,15 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2024 - To: 25 August 2024
+From: 19 August 2024 - To: 26 August 2024
 
-Total Time: 49 hrs 38 mins
+Total Time: 41 hrs 23 mins
 
-TypeScript   33 hrs 34 mins  █████████████████░░░░░░░░   67.65 %
-Markdown     6 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-C++          3 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-CSS          2 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Other        2 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+TypeScript   25 hrs 5 mins   ███████████████░░░░░░░░░░   60.64 %
+Markdown     6 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+C++          3 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Other        2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 ```
 
 <!--END_SECTION:waka-->
