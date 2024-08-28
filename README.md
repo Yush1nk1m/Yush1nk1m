@@ -20,4 +20,4 @@ Other        2 hrs 4 mins    █▓░░░░░░░░░░░░░░░
 
 ### Annual Contributions 🏃
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
