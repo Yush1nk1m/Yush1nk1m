@@ -24,8 +24,12 @@ Other        40 mins         █░░░░░░░░░░░░░░░░
 
 ## PS Status
 
+<div align="center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kys010306)](https://solved.ac/kys010306)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kys010306&theme=dark)
+
+</div>
 
 <div align="center">
 
