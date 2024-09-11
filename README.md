@@ -1,6 +1,10 @@
 # Yushin Kim, A Fast Developer
 
-### Weekly Coding Time 💻
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYush1nk1m&count_bg=%23443DC8&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kys010306)](https://solved.ac/kys010306)
+
+## Weekly Coding Time 💻
 
 <!--START_SECTION:waka-->
 
@@ -18,6 +22,6 @@ Other        40 mins         █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### Annual Contributions 🏃
+## Annual Contributions 🏃
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
