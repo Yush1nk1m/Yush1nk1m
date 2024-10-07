@@ -5,15 +5,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2024 - To: 05 October 2024
+From: 29 September 2024 - To: 06 October 2024
 
-Total Time: 9 hrs 41 mins
+Total Time: 10 hrs 53 mins
 
-Python       5 hrs 51 mins   ███████████████░░░░░░░░░░   60.39 %
-C++          3 hrs 27 mins   █████████░░░░░░░░░░░░░░░░   35.74 %
-Markdown     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python            5 hrs 35 mins   █████████████░░░░░░░░░░░░   51.38 %
+C++               3 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   30.06 %
+Java              59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+HTML              27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Markdown          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Groovy            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Properties        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
