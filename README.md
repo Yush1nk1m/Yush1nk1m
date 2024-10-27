@@ -5,19 +5,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2024 - To: 25 October 2024
+From: 19 October 2024 - To: 26 October 2024
 
-Total Time: 20 hrs 38 mins
+Total Time: 22 hrs 26 mins
 
-C++               8 hrs 24 mins   ██████████▒░░░░░░░░░░░░░░   40.73 %
-Java              6 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.61 %
-Python            3 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
-Markdown          42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Groovy            27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-XML               20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Properties        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Java Properties   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Other             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+C++               9 hrs 2 mins    ██████████░░░░░░░░░░░░░░░   40.28 %
+Java              6 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   29.49 %
+Python            4 hrs 44 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
+Markdown          42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+XML               26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Groovy            22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Properties        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Java Properties   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Other             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
