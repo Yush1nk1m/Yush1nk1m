@@ -5,18 +5,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2024 - To: 30 November 2024
+From: 24 November 2024 - To: 01 December 2024
 
-Total Time: 16 hrs 52 mins
+Total Time: 14 hrs 59 mins
 
-Python       11 hrs 13 mins  ████████████████▓░░░░░░░░   66.51 %
-C++          4 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-Markdown     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python       11 hrs 21 mins  ███████████████████░░░░░░   75.73 %
+C++          3 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
