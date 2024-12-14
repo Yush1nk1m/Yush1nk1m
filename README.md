@@ -5,16 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2024 - To: 12 December 2024
+From: 06 December 2024 - To: 13 December 2024
 
-Total Time: 6 hrs 33 mins
+Total Time: 6 hrs 13 mins
 
-C++          4 hrs 7 mins    ███████████████▓░░░░░░░░░   63.06 %
-Python       1 hr 33 mins    ██████░░░░░░░░░░░░░░░░░░░   23.86 %
-TypeScript   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Bash         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-CSV          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C++          4 hrs 36 mins   ██████████████████▓░░░░░░   74.07 %
+Python       45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+TypeScript   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Bash         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+CSV          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
