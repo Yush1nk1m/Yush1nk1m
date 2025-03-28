@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 26 March 2025
+From: 20 March 2025 - To: 27 March 2025
 
-Total Time: 53 mins
+Total Time: 47 mins
 
-C++        53 mins         █████████████████████████   99.52 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+C++        47 mins         █████████████████████████   99.46 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
