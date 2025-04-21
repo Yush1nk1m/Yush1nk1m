@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2025 - To: 19 April 2025
+From: 13 April 2025 - To: 20 April 2025
 
-Total Time: 4 hrs 2 mins
+Total Time: 2 hrs 16 mins
 
-C++          3 hrs 56 mins   ████████████████████████▒   97.39 %
-Git Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+C++          2 hrs 10 mins   ████████████████████████░   95.37 %
+Git Config   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
