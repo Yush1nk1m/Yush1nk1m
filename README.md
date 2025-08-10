@@ -5,12 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2025 - To: 08 August 2025
+From: 02 August 2025 - To: 09 August 2025
 
-Total Time: 4 hrs 49 mins
+Total Time: 5 hrs 47 mins
 
-Java   4 hrs 48 mins   █████████████████████████   99.66 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Java     5 hrs 20 mins   ███████████████████████░░   92.08 %
+Python   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+C        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
