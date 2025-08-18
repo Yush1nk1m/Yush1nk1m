@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-Total Time: 3 hrs 5 mins
+Total Time: 4 hrs 8 mins
 
-Java   2 hrs 54 mins   ███████████████████████▒░   93.96 %
-XML    7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Text   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Java   3 hrs 56 mins   ████████████████████████░   95.47 %
+XML    7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Text   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
