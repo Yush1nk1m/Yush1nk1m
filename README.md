@@ -5,17 +5,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2025 - To: 30 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
-Total Time: 13 hrs 25 mins
+Total Time: 13 hrs 27 mins
 
-Java          10 hrs 40 mins  ████████████████████░░░░░   79.53 %
-PHP           1 hr 57 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-Text          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-XML           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Java          11 hrs 27 mins  █████████████████████▒░░░   85.16 %
+PHP           1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+Text          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+XML           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 HTML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 IDEA_MODULE   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
