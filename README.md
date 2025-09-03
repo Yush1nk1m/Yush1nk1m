@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2025 - To: 01 September 2025
+From: 26 August 2025 - To: 02 September 2025
 
-Total Time: 12 hrs 37 mins
+Total Time: 12 hrs 27 mins
 
-Java          11 hrs 15 mins  ██████████████████████▒░░   89.18 %
-PlantUML      40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Text          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-XML           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-IDEA_MODULE   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Java          10 hrs 54 mins  ██████████████████████░░░   87.67 %
+PlantUML      52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+XML           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Text          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+IDEA_MODULE   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
