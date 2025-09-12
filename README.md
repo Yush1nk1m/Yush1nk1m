@@ -5,17 +5,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2025 - To: 10 September 2025
+From: 04 September 2025 - To: 11 September 2025
 
-Total Time: 12 hrs 9 mins
+Total Time: 11 hrs 56 mins
 
-Java       10 hrs 26 mins  █████████████████████▒░░░   85.89 %
-PlantUML   43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-XML        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Text       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Markdown   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-HTML       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java             10 hrs 22 mins  █████████████████████▓░░░   86.83 %
+XML              27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+PlantUML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+HTML             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Text             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Markdown         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
