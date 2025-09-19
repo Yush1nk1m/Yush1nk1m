@@ -5,17 +5,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2025 - To: 16 September 2025
+From: 10 September 2025 - To: 17 September 2025
 
-Total Time: 13 hrs 11 mins
+Total Time: 11 hrs 59 mins
 
-Java              11 hrs 32 mins  ██████████████████████░░░   87.53 %
-HTML              1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-XML               25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-PlantUML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java              10 hrs 34 mins  ██████████████████████░░░   88.31 %
+HTML              59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+PlantUML          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+XML               6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Markdown          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
