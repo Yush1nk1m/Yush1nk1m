@@ -5,18 +5,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2025 - To: 05 October 2025
+From: 29 September 2025 - To: 06 October 2025
 
-Total Time: 8 hrs 16 mins
+Total Time: 10 hrs 1 min
 
-Java              7 hrs 46 mins   ███████████████████████▒░   93.93 %
-PlantUML          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-XML               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Properties        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-SQL               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Java              9 hrs 20 mins   ███████████████████████▒░   93.17 %
+Properties        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Java Properties   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+XML               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+SQL               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
