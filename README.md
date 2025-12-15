@@ -1,4 +1,4 @@
-# Yushin Kim, A Fast Developer
+# Yushin Kim, A Delegent Developer
 
 ## Weekly Coding Time 💻
 
