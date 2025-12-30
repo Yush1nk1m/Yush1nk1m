@@ -5,18 +5,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2025 - To: 28 December 2025
+From: 22 December 2025 - To: 29 December 2025
 
-Total Time: 10 hrs 29 mins
+Total Time: 8 hrs 21 mins
 
-Java              5 hrs 21 mins   ████████████▓░░░░░░░░░░░░   51.00 %
-Markdown          3 hrs 37 mins   ████████▓░░░░░░░░░░░░░░░░   34.60 %
-C                 38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-Python            28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-XML               10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Java Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Properties        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-HTML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Java              4 hrs 15 mins   ████████████▓░░░░░░░░░░░░   50.84 %
+Markdown          2 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   32.61 %
+C                 38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+Python            28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+XML               5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Java Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Properties        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
