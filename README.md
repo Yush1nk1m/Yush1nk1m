@@ -5,19 +5,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 01 January 2026
+From: 26 December 2025 - To: 02 January 2026
 
-Total Time: 7 hrs 4 mins
+Total Time: 8 hrs 8 mins
 
-Java              3 hrs 59 mins   ██████████████░░░░░░░░░░░   56.46 %
-Markdown          2 hrs 40 mins   █████████▒░░░░░░░░░░░░░░░   37.71 %
-XML               5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Java Properties   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Python            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Properties        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Gradle            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java              5 hrs           ███████████████▒░░░░░░░░░   61.60 %
+Markdown          2 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   33.33 %
+XML               5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Java Properties   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Python            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Properties        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Gradle            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
