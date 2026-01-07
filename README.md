@@ -5,20 +5,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 05 January 2026
+From: 30 December 2025 - To: 06 January 2026
 
-Total Time: 8 hrs 2 mins
+Total Time: 9 hrs 42 mins
 
-Markdown          3 hrs 45 mins   ███████████▓░░░░░░░░░░░░░   46.81 %
-Java              3 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   39.11 %
-C                 48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-Python            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Objective-C       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Java Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Assembly          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Gradle            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Java              5 hrs 27 mins   ██████████████░░░░░░░░░░░   56.32 %
+Markdown          2 hrs 36 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
+C                 48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+HTML              30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Python            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Objective-C       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+CSS               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Assembly          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Gradle            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
