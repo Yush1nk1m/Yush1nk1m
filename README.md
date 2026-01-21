@@ -5,17 +5,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2026 - To: 19 January 2026
+From: 13 January 2026 - To: 20 January 2026
 
-Total Time: 6 hrs 45 mins
+Total Time: 5 hrs 29 mins
 
-Java              5 hrs 2 mins    ██████████████████▓░░░░░░   74.69 %
-Markdown          1 hr 30 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
-XML               6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Assembly          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Groovy            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Java              4 hrs 46 mins   █████████████████████▓░░░   86.84 %
+Markdown          36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+XML               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Assembly          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Groovy            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 C                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Gradle            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
