@@ -5,15 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2026 - To: 22 January 2026
+From: 16 January 2026 - To: 23 January 2026
 
-Total Time: 4 hrs 41 mins
+Total Time: 4 hrs 20 mins
 
-Java              4 hrs 37 mins   ████████████████████████▓   98.63 %
-XML               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Gradle            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java              4 hrs 16 mins   ████████████████████████▓   98.52 %
+XML               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
