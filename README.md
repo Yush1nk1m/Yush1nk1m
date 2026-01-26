@@ -5,13 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2026 - To: 24 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
-Total Time: 3 hrs 2 mins
+Total Time: 2 hrs 8 mins
 
-Java         2 hrs 59 mins   ████████████████████████▓   98.52 %
-XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java   2 hrs 8 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
