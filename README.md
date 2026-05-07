@@ -1,19 +1,16 @@
-# Yushin Kim, A Fast Developer
+# Yushin Kim, A Diligent Developer
 
 ## Weekly Coding Time 💻
 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2024 - To: 11 September 2024
+From: 29 April 2026 - To: 06 May 2026
 
-Total Time: 15 hrs 39 mins
+Total Time: 5 hrs
 
-C++          5 hrs 24 mins   ████████▓░░░░░░░░░░░░░░░░   34.53 %
-Markdown     5 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   33.00 %
-TypeScript   3 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
-Python       42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Other        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Java    4 hrs 48 mins         ████████████████████████░   95.83 %
+Other   12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
@@ -24,9 +21,4 @@ Other        20 mins         ▓░░░░░░░░░░░░░░░░
 
 ## Problem solving 👨‍💻
 
-<div align="center">
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kys010306)](https://solved.ac/kys010306)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kys010306&theme=dark)
-
-</div>
