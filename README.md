@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2026 - To: 10 May 2026
+From: 04 May 2026 - To: 11 May 2026
 
-Total Time: 8 hrs 59 mins
+Total Time: 10 hrs 25 mins
 
-Java       7 hrs 53 mins         ██████████████████████░░░   87.85 %
-C          32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-PlantUML   18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Other      14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Java       8 hrs 58 mins         █████████████████████▓░░░   86.10 %
+PlantUML   37 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+C          32 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Other      14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
