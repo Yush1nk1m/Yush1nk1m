@@ -1,3 +1,5 @@
+# 🚀 You've just arrived at Yushin Kim's GitHub
+
 <img src="./assets/banner.svg" alt="Design, Document, and Develop — Yushin Kim, backend engineer" width="100%" />
 
 <p align="center">
