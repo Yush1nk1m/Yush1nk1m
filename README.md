@@ -16,21 +16,6 @@
   <a href="https://github.com/Yush1nk1m/Empathy_Diary"><img src="./assets/card-empathy.svg" width="31%" alt="공감 다이어리 — 하루의 감정을 기록하는 다이어리 서비스" /></a>
 </p>
 
-## Weekly Coding Time 💻
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-Total Time: 1 hr 12 mins
-
-C          1 hr 12 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.96 %
-Markdown   0 secs                ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.04 %
-```
-
-<!--END_SECTION:waka-->
-
 ## Annual Contributions 🏃
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
